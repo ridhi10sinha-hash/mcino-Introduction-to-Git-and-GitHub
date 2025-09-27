@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+# Project Title
+
+This repository is part of my Git and GitHub assignment. It includes basic files like LICENSE, CODE_OF_CONDUCT, CONTRIBUTING, and a shell script for simple interest calculation.
